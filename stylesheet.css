@@ -6,6 +6,7 @@ html, body {
  #title {
 	background-color: #ADFFAD;
 	height: 500px;
+	line-height: 500px;
 }
 
 h1 {
@@ -26,6 +27,9 @@ h1 {
 
 h3{
 	text-align: center;
+	font-size: 56px;
+	margin: 0px;
+	padding-top: 50px;
 }
 
 

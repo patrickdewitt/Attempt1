@@ -10,9 +10,11 @@ html, body {
 
 h1 {
 	text-align: center;
+	vertical-align: center;
 	color: white;
 	font-family: sans-serif;
 	font-size: 72px;
+	margin: 0px;
 }
 
 #first {

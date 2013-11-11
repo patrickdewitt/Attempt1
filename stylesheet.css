@@ -6,5 +6,5 @@ h1 {
 
 div {
 	background-color: blue;
-	background-size: auto 500px;
+	background-size: 500px auto;
 }

@@ -37,9 +37,12 @@ h3{
 }
 
 #firstCone {
+	float: left;
+	width: 50%;
 
 }
 
 #firstCtwo {
-	
+	float: right;
+	width: 50%;
 }
